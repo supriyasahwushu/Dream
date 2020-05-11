@@ -6,6 +6,8 @@
 
 [![CircleCI](https://circleci.com/gh/dreamhouseapp/dreamhouse-sfdx.svg?style=svg)](https://circleci.com/gh/dreamhouseapp/dreamhouse-sfdx)
 
+[![Build Status](https://dev.azure.com/M1050677/Dream/_apis/build/status/supriyasahwushu.Dream%20(1)?branchName=master)](https://dev.azure.com/M1050677/Dream/_build/latest?definitionId=2&branchName=master)
+
 Dreamhouse is a sample application for the real estate business built on the Salesforce platform. It allows brokers to manage their properties and customers to find their dream house.
 
 ## Table of contents
